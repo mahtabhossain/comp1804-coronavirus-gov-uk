@@ -48,8 +48,7 @@ Part 4 (Deployment through Amazon Cloud - AWS):
 -----------------------------------------------
 Files:
 Dockerrun.aws.json
-Also, the images file uploaded in Docker Hub registry: mahtabhossain/app-coronavirus-gov-uk.
 
-There are multiple options to achieve this part. We will be utilising an option that makes use of the Docker container registry created in Part 3. Follow the instructions inside "Docker on AWS" section of the tutorial (https://docker-curriculum.com/).
+There are multiple options to achieve this part. We will be utilising an option that makes use of the Docker container registry (mahtabhossain/comp1804-coronavirus-gov-uk) created in Part 3. Follow the instructions inside "Docker on AWS" section of the tutorial (https://docker-curriculum.com/).
 
-Caution: make sure you clean up all resources (including orphan ones) to avoid cost incurred for continually using AWS PaaS.
+CAUTION: make sure you clean up all the resources (including orphan ones) to avoid cost incurred for continually using AWS PaaS.
