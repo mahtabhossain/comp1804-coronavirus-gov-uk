@@ -51,4 +51,6 @@ Dockerrun.aws.json
 
 There are multiple options to achieve this part. We will be utilising an option that makes use of the Docker container registry (mahtabhossain/comp1804-coronavirus-gov-uk) created in Part 3. Follow the instructions inside "Docker on AWS" section of the tutorial (https://docker-curriculum.com/).
 
+Amazon Management Console link: https://aws.amazon.com/console/
+
 CAUTION: make sure you clean up all the resources (including orphan ones) to avoid cost incurred for continually using AWS PaaS.
